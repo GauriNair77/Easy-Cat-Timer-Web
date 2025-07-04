@@ -4,7 +4,7 @@ This is a very simple cat timer, made using **HTML+CSS+TypeScript**.
 
 (in the process of making.)
 
-[中文文档 请戳这里 ](./document/README-[zh-cn].md)
+[Read My Sweet Custom Guide 💗](./mew-guide.md)
 
 <br/>
 
@@ -24,16 +24,14 @@ You only need to enter a number, click the [Start] button, and the countdown wil
 
 English:  https://easycattimer.com/
 
-Chinese:  https://cn.easycattimer.com/
-
 <br/>
 
 **Feature:**
 
 - Very simple (only countdown function)
 - Very cute
-- Support two languages: Chinese, English
-- Have detailed script comments（Currently only Chinese，Will add English as soon as possible）
+- Support two languages: English
+- Have detailed script comments
 - Support mobile devices（Mobile phone, ipad, etc.）
 
 <br/>
@@ -143,21 +141,9 @@ In other words, as long as you have visited this webpage once, you can access th
 
 There is also a desktop version of Easy Cat Timer software, if you want to know more, please see here:
 
-https://github.com/xujiangjiang/Easy-Cat-Timer
+(https://github.com/GauriNair77/Easy-Cat-Timer)
 
 <br/>
-
-<br/>
-
-<br/>
-
-## Creator
-
-**Design、Art、Program**: 絮大王
-
-**Special thanks**: 瓜指导
-
-**Thank**: My family,小木, Pw, Amir Ammari, 原浩程, Felix, [TBR]Flaming, 乐乐, UEMion
 
 <br/>
 
