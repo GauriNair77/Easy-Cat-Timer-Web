@@ -141,7 +141,7 @@ In other words, as long as you have visited this webpage once, you can access th
 
 There is also a desktop version of Easy Cat Timer software, if you want to know more, please see here:
 
-(https://github.com/GauriNair77/Easy-Cat-Timer)
+(https://gaurinair77.github.io/Easy-Cat-Timer-Web/)
 
 <br/>
 
